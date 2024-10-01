@@ -19,6 +19,9 @@ O tratamento foi realizado utilizando Python (Python 3.10.12), principalmente bi
 ## Dashboard
 
 O dashboard foi construído utilizando Power BI e Figma para construção do Layout.
+![image](https://github.com/user-attachments/assets/7f628d0b-7e78-47c9-9a1f-0a2b83b7ebc0)
+
+
 
 ## Conclusão
 
