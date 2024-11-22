@@ -14,7 +14,7 @@ A Taxa de Churn é um importante indicador para empresas pois apontam a quantida
 
 ## Tecnologias
 
-O tratamento foi realizado utilizando Python (Python 3.10.12), principalmente biblioteca Pandas e Math, em um Notebook Colaboratory (Google). 
+O tratamento foi realizado utilizando Python (Python 3.10.12), principalmente biblioteca Pandas, Numpy, seaborn e matplotilib, em um Jupyter Notebook. 
 
 ## Dashboard
 
@@ -22,7 +22,6 @@ O dashboard foi construído utilizando Power BI e Figma para construção do Lay
 ![image](https://github.com/user-attachments/assets/7f628d0b-7e78-47c9-9a1f-0a2b83b7ebc0)
 
 
-
-## Conclusão
+## Conclusões
 
    Em construção.
