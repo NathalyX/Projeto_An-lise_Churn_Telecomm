@@ -10,7 +10,8 @@ A Taxa de Churn é um importante indicador para empresas pois apontam a quantida
  A base foi tratada através do curso "Pandas - Limpeza e Tratamento de Dados" da plataforma Alura. O tratamento foi realizados em três grandes etapas (ETL):
   1. Extração da base e normalização inicial: Analisando e transformando para formato tabelar
   2. Tratamento de campos vazios, nulos e duplicados
-  3. Identificando e tratando outliers 
+  3. Identificando e tratando outliers
+  4. Análise Exploratória dos dados tratados
 
 ## Tecnologias
 
