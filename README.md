@@ -26,4 +26,8 @@ O dashboard foi construído utilizando Power BI e Figma para construção do Lay
 
 ## Conclusões
 
-   Em construção.
+Obtivemos uma taxa de churn igual a 26,49%, o que pode ser visto como um valor alto para o período. Porém, através das nossas análises podemos identificar possíveis contribuidores para esse número.
+
+Percebemos que grande parte dos número de churn se encontravam em situações como, clientes que não optaram pelo suporte técnico do serviço de internet, que possuem uma modalidade de contrato mês a mês e também que optaram pelo pagamento via cheque eletrônico.
+
+Outra variável interessante de se analisar também seria o período ativo dos clientes, como no último gráfico. Através dele podemos perceber que o índice de churn é bem maior no caso de clientes no começo do relacionamento com a empresa, ou seja, menores que 12 meses de atividade. O número de Churn, de forma geral, passa a diminuir conforme o passar do tempo de relacionamento. Esses números podem indicar falhas de comunicação ou problemas no onboarding desse cliente, porém, essa análise pode evidenciar oportunidades de melhorias e construção de planos de ação nesses pontos.
